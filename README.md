@@ -17,3 +17,6 @@ adding complete project directory
 - git push origin master
 - @ username
 - @ password
+
+testing
+- git status
